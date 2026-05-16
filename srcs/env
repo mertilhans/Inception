@@ -1,0 +1,18 @@
+# Domain ve Yol Ayarları
+DOMAIN_NAME=merilhan.42.fr
+DATA_PATH=/home/stiletto/data
+
+# MariaDB Ayarları
+MYSQL_DATABASE=inception_db
+MYSQL_USER=merilhan_user
+MYSQL_PASSWORD=merilhan_pass
+MYSQL_ROOT_PASSWORD=merilhan_root_pass
+
+# WordPress Ayarları
+WORDPRESS_ADMIN_USER=merilhan_admin
+WORDPRESS_ADMIN_PASSWORD=merilhan_admin_pass
+WORDPRESS_ADMIN_EMAIL=merilhan@student.42kocaeli.com.tr
+WORDPRESS_USER=merilhan_guest
+WORDPRESS_PASSWORD=merilhan_guest_pass
+WORDPRESS_EMAIL=guest@student.42kocaeli.com.tr
+
